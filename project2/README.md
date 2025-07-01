@@ -2,4 +2,4 @@
 
 This project was created from premium system
 
-Created by Shizan Ansari
+Created by Shizan Ansari.
